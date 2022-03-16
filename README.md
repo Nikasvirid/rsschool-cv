@@ -1,2 +1,2 @@
-# rsschool-
-https://Nikasvirid.github.io/rsschool-cv/cv 
+# rsschool-cv
+https://Nikasvirid.github.io/rsschool-cv/cv
