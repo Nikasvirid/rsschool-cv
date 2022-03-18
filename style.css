@@ -1,1 +1,11 @@
-style.css
+body {
+    background-color: dimgrey;
+    color: brown;
+}
+h1 {
+    text-transform: uppercase;
+}
+p:hover {
+    background-color: bisque;
+    font-weight: bolder;
+}
